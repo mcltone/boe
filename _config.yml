@@ -17,8 +17,8 @@ title: Back-of-the-Envelope Climate Change
 #email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
   Web Page of the Book by Marco Cosentino Lagomarsino.
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/boe" # the subpath of your site, e.g. /blog
+url: "http://mcltone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 #twitter_username: mcltone
 #github_username:  mcltone
