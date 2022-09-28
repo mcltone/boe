@@ -17,9 +17,9 @@
 title: Back-of-the-Envelope Climate Change 
 #email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An inarguably well-designed Jekyll theme.
+  A Book About Data.
 baseurl: "/boe" # the subpath of your site, e.g. /blog
-#A Book About Data
+#
 #Web Page of the Book  by Marco Cosentino Lagomarsino.
 #baseurl: "/boe" # the subpath of your site, e.g. /blog
 url: "https://mcltone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
