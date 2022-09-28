@@ -3,15 +3,21 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Welcome to the web site of the book "Back-of-the-Envelope Climate Change"
+by Marco Cosentino Lagomarsino
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+This book covers some of the main facts about climate change with the main purpose of stimulating informed critical thinking and making climate change data something we can all begin to grasp by ourselves. It is also a chronicle of my own venture into (simple) climate-change data. Most of all, it aims to be a book about the era of data, with an emphasis towards reading the data constructively.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+**The pdf-format eBook is free to download and read.**
+However, please keep in mind that the book is **under copyright**. You do not have the right to edit or distribute the book, copy it, print it, sell it, or post it on a web site without explicit permission from the author. 
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmcltone.github.io%2Fboe&count_bg=%23AEB6A7&title_bg=%239F9A9A&icon=mixcloud.svg&icon_color=%23D7D9E8&title=thank+you+for+visiting&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+<!-- excerpt_separator -->
+
+<p style="text-align:center">
+<a href="https://en.wikipedia.org">Download link</a>
+</p>
+
