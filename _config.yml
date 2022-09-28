@@ -16,8 +16,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Back-of-the-Envelope Climate Change 
 #email: hello@patdryburgh.com
-description: >- A Book About Data
-# Web Page of the Book  by Marco Cosentino Lagomarsino.
+description: >- 
+# A Book About Data
+Web Page of the Book  by Marco Cosentino Lagomarsino.
 baseurl: "/boe" # the subpath of your site, e.g. /blog
 url: "https://mcltone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: assets/images/icon-512.png
