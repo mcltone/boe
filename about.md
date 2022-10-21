@@ -19,6 +19,6 @@ The book is now in draft form and is being evaluated by a publisher. At the mome
 <!-- excerpt_separator -->
 
 <p style="text-align:center">
-<a href="assets/images/BOE_teaser_280922.pdf">Download link</a>
+<a href="assets/images/BOE_teaser_280922.pdf"  target="_blank">Download link</a>
 </p>
 
