@@ -3,7 +3,7 @@ layout: post
 title: Bio
 ---
 
-Marco Cosentino Lagomarsino (MCL) is a theoretical statistical physicist. He works in the areas of quantitative biology and physics of living systems. His work can be defined as "model-guided data science", and uses mathematical models and moded-guided data analysis. He holds a PhD in Physics from the University of Leiden (2004), and a HDR (Habilitation Defense, 2011) from the University of Paris Sorbonne. Between 2000 and 2009, he worked in Amsterdam at the AMOLF institute for molecular physics, at the Curie institute in Paris, and at the University of Milan. He then joined the French CNRS in 2009 and he worked as a researcher and then as a research director at Sorbonne University, before moving to Milan in 2018. Since 2018, he runs a research group at the IFOM Foundation and teaches as an associate professor at the University of Milan.
+Marco Cosentino Lagomarsino (MCL) is a theoretical statistical physicist. He works in the areas of quantitative biology and physics of living systems. His work can be defined as "model-guided data science", because ti combines mathematical models and moded-guided data analysis. He holds a PhD in Physics from the University of Leiden (2004), and a HDR (Habilitation Defense, 2011) from the University of Paris Sorbonne. Between 2000 and 2009, he worked in Amsterdam at the AMOLF institute for molecular physics, at the Curie institute in Paris, and at the University of Milan. He then joined the French CNRS in 2009 and he worked as a researcher and then as a research director at Sorbonne University, before moving to Milan in 2018. Since 2018, he runs a research group at the IFOM Foundation and teaches as an associate professor at the University of Milan.
 
 
 <!---
