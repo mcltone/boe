@@ -6,7 +6,7 @@ title: About
 Welcome to the web site of the book "Back-of-the-Envelope Climate Change"
 by Marco Cosentino Lagomarsino
 
-This book covers some of the main facts about climate change with the main purpose of stimulating informed critical thinking and making climate change data something we can all begin to grasp by ourselves. It is also a chronicle of my own venture into (simple) climate-change data. Most of all, it aims to be a book about that gives some useful tools to navigate our "era of data", with an emphasis towards reading the data with some care and proposing interpretations constructively.
+This book covers some of the main facts about climate change with the main purpose of stimulating informed critical thinking and making climate change data something we can all begin to grasp by ourselves. It is also a chronicle of my own venture into (simple) climate-change data. Most of all, it aims to be a book that gives some useful tools to navigate our "era of data", with an emphasis towards reading the data with some care and proposing interpretations constructively.
 
 The book is now (Nov 2022) complete in draft form and is being evaluated by publishers. At the moment **you can download a teaser below**, which includes the current draft of the first chapter.
 
