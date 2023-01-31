@@ -3,6 +3,6 @@ layout: page
 title: "BOE"
 ---
 
-[Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+[Jekyll](http://jekyllrb.com) theme Hitchens by [Pat Dryburgh](https://patdryburgh.com).
 
 
