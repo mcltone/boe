@@ -19,6 +19,6 @@ The plan is that **a full pdf-format eBook of the draft will be free to download
 <!-- excerpt_separator -->
 
 <p style="text-align:center">
-<a href="assets/images/BOE_teaser_280922.pdf"  target="_blank">Download link for Teaser with Ch 1</a>
+<a href="assets/images/BOE_teaser_310123.pdf"  target="_blank">NEW (2023)! Download link for Teaser with Ch 1 and 2</a>
 </p>
 
