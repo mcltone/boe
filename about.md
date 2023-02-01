@@ -8,7 +8,7 @@ by Marco Cosentino Lagomarsino
 
 This book covers some of the main facts about climate change with the main purpose of stimulating informed critical thinking and making climate change data something we can all begin to grasp by ourselves. It is also a chronicle of my own venture into (simple) climate-change data. Most of all, it aims to be a book that gives some useful tools to navigate our "era of data", with an emphasis towards reading the data with some care and proposing interpretations constructively.
 
-The book is now (Nov 2022) complete in draft form and is being evaluated by publishers. At the moment **you can download a teaser below**, which includes the current draft of the first chapter.
+The book is was completed in Nov 2022 in a first draft form made available on this website, a complete revision (Jan 2023) is being evaluated by publishers. At the moment **you can download a teaser below**, which includes the current draft of the first and second chapter.
 
 The plan is that **a full pdf-format eBook of the draft will be free to download and read**. However, please keep in mind that all the material is **under copyright**. You do not have the right to edit or distribute the book, copy it, print it, or post it on a web site without explicit permission from the author.
 
